@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GoFood/static/css/main.2cc73f0d.css",
+    "main.js": "/GoFood/static/js/main.ef045959.js",
+    "static/js/453.68693753.chunk.js": "/GoFood/static/js/453.68693753.chunk.js",
+    "index.html": "/GoFood/index.html",
+    "main.2cc73f0d.css.map": "/GoFood/static/css/main.2cc73f0d.css.map",
+    "main.ef045959.js.map": "/GoFood/static/js/main.ef045959.js.map",
+    "453.68693753.chunk.js.map": "/GoFood/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cc73f0d.css",
+    "static/js/main.ef045959.js"
+  ]
+}
